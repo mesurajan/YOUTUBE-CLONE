@@ -1,0 +1,86 @@
+
+body{
+    background-color: rgb(23, 22, 22);
+}
+.search_bar {
+    color: white;
+    background-color: rgb(59, 58, 58);
+    display: block;
+    padding-right: 160px;
+    border-radius: 35px;
+    border-width: 2px;
+    padding-left: 12px;
+    padding-top: 8px;
+    padding-bottom: 4px;
+    margin-bottom: 8px;
+    
+}
+
+.button-container {
+    text-align: center;
+    margin-bottom:24px;
+}
+.all{
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    cursor: pointer;
+    background-color: white;
+    border-radius: 6px;
+    border-width: 1px;
+  
+}
+.all:hover{
+    transition: 1s;
+    box-shadow: 4px 4px 4px white;
+    cursor: pointer; 
+}
+.gaming,
+.coc,
+.html,
+.tamil,
+.mixes,
+.java,
+.music,
+.live,
+.lofi,
+.playlist,
+.esports,
+.indian,
+.role {
+    color: white;
+    background-color: rgb(67, 66, 66);
+    display: inline-block;
+    border-radius: 6px;
+    border-width: 1px;
+    cursor: pointer;
+    margin: 4px;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+   
+}
+.gaming:hover,
+.coc:hover,
+.html:hover,
+.tamil:hover,
+.mixes:hover,
+.java:hover,
+.music:hover,
+.live:hover,
+.lofi:hover,
+.playlist:hover,
+.esports:hover,
+.indian:hover,
+.role:hover{
+    transition: 1s;
+    box-shadow: 4px 4px 4px white;
+    cursor: pointer;
+   
+}
+
+
+
+

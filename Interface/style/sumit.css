@@ -1,0 +1,49 @@
+.video-preview{
+    color: white;
+    width: 340px;
+    display: inline-block;
+    vertical-align: top;
+}
+#image {
+    width: 300px;
+    margin-top: 24px;
+    margin-left: 250px;
+}
+ 
+.sumit-paragraph{
+     font-size:15px ;
+     margin-bottom: 8px;
+     margin-left: 250px;
+    
+    width: 320px;
+}
+ .html-paragraph{
+    
+    font-size:15px ;
+    margin-bottom: 8px;
+    margin-left: 250px;
+    width: 320px;
+}
+ .mahanati-paragraph{
+    
+    font-size:15px ;
+    margin-bottom: 8px;
+    margin-left: 250px;
+    width: 320px;
+}
+    
+
+.channel-name{
+    margin-left: 250px;
+    font-size: 14px;
+    color:  rgb(120, 119, 119);
+    margin-bottom: 2px;
+    margin-top: 8px;
+}
+.total-views{
+    width: 300px;
+    margin-left: 250px;
+    font-size: 14px;
+    color: rgb(120, 119, 119);
+    margin-top: 2px;
+}
